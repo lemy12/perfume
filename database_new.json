@@ -2,7 +2,7 @@
     {
         "name": "ZippoGlorious",
         "comp": [
-            "Sk\u0142adnikiIngredients: Alcohol Denat",
+            "Ingredients: Alcohol Denat",
             " Parfum (Fragrance)",
             " Aqua (Water)",
             " Pentaerythrityl Tetra-Di-T-ButylHydroxyhydrocinnamate",
@@ -27,7 +27,7 @@
     {
         "name": "Paco RabanneInvictus",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT",
+            "ALCOHOL DENAT",
             " PARFUM (FRAGRANCE)",
             " AQUA (WATER)",
             " BENZYL SALICYLATE",
@@ -55,7 +55,7 @@
     {
         "name": "Calvin KleinEuphoria",
         "comp": [
-            "Sk\u0142adnikiAQUA/WATER/EAU",
+            "AQUA/WATER/EAU",
             " PROPYLENE GLYCOL",
             " ISOSTEARYL NEOPENTANOATE",
             "CYCLOPENTASILOXANE",
@@ -92,15 +92,9 @@
         ]
     },
     {
-        "name": "LacosteEssential",
-        "comp": [
-            "Sk\u0142adnikiLINALOOL  LIMONENE  BUTYLPHENYL METHYLPROPIONAL  CITRAL  GERANIOL "
-        ]
-    },
-    {
         "name": "AllvernumTobacco & Amber",
         "comp": [
-            "Sk\u0142adnikiAlcohol denat",
+            "Alcohol denat",
             " Parfum",
             " Aqua",
             " Coumarin",
@@ -113,37 +107,9 @@
         ]
     },
     {
-        "name": "VersaceBlue Jeans",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT ( SD ALCOHOL 39 C ) AQUA ",
-            " PARFUM ",
-            " BENZYL SALICYLATE LINALOOL ",
-            "LIMONENE ",
-            " ETHYLHEXYL METHOXYCINNAMATE ",
-            " BUTYL METHOHYDIBENZOYLMETHANE",
-            " ETHYLHEXYL SALICYLATE ",
-            " HYDROXYISOHEXYL ",
-            " 3- CYCLOHEXENE CARBOXALDEHYDE ",
-            " COUMARIN ",
-            " CITRONELLOL ",
-            " CITRAL",
-            " ISOEUGENOL ",
-            " GERANIOL ",
-            " BENZYL ",
-            " BENZOATE",
-            " CI 60730 ( EXT VIOLET 2 ) CI 42090 ( BLUE 1 )"
-        ]
-    },
-    {
-        "name": "DesigualDark Fresh Festival",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT  AQUA (WATER)  PARFUM (FRAGRANCE) ETHYLHEXYL METHOXYCINNAMATE BUTYL METHOXYDIBENZOYLMETHANE ETHYLHEXYL SALICYLATE BHT  BENZYL SALICYLATE LINALOOL LIMONENE  HEXYL CINNAMAL CITRONELLOL COUMARIN CITRAL GERANIOL BENZYL BENZOATE"
-        ]
-    },
-    {
         "name": "Karl LagerfeldMen",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT (SD ALCOHOL 39-C)",
+            "ALCOHOL DENAT (SD ALCOHOL 39-C)",
             "AQUA (WATER)",
             "LIMONENE",
             "ETHYLHEXYL METHOXYCINNAMATE",
@@ -163,9 +129,31 @@
         ]
     },
     {
+        "name": "VersaceBlue Jeans",
+        "comp": [
+            "ALCOHOL DENAT ( SD ALCOHOL 39 C ) AQUA ",
+            " PARFUM ",
+            " BENZYL SALICYLATE LINALOOL ",
+            "LIMONENE ",
+            " ETHYLHEXYL METHOXYCINNAMATE ",
+            " BUTYL METHOHYDIBENZOYLMETHANE",
+            " ETHYLHEXYL SALICYLATE ",
+            " HYDROXYISOHEXYL ",
+            " 3- CYCLOHEXENE CARBOXALDEHYDE ",
+            " COUMARIN ",
+            " CITRONELLOL ",
+            " CITRAL",
+            " ISOEUGENOL ",
+            " GERANIOL ",
+            " BENZYL ",
+            " BENZOATE",
+            " CI 60730 ( EXT VIOLET 2 ) CI 42090 ( BLUE 1 )"
+        ]
+    },
+    {
         "name": "Jacques BattiniGoing Pro",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Parfum",
             "Aqua",
             "Alpha-Isomethyl Ionone",
@@ -183,7 +171,7 @@
     {
         "name": "Paco Rabanne1 Million",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT",
+            "ALCOHOL DENAT",
             " PARFUM (FRAGRANCE)",
             " AQUA (WATER)",
             " BUTYLPHENYL METHYLPROPIONAL",
@@ -201,46 +189,9 @@
         ]
     },
     {
-        "name": "Giorgio ArmaniAcqua Di Gio",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL",
-            " AQUA / WATER",
-            " PARFUM / FRAGRANCE",
-            " BHT",
-            " LINALOOL",
-            " GERANIOL",
-            " EUGENOL",
-            " ALPHA-ISOMETHYL IONONE",
-            " CINNAMYL ALCOHOL",
-            " LIMONENE",
-            " CITRAL",
-            " CITRONELLOL",
-            " BUTYLPHENYL METHYLPROPIONAL",
-            " BENZYL SALICYLATE"
-        ]
-    },
-    {
-        "name": "BrutalGrand",
-        "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            "Aqua",
-            "Parfum",
-            "Benzyl Alcohol",
-            "Benzyl Benzoate",
-            "Benzyl Cinnamate",
-            "Cinnamal",
-            "Citral",
-            "Eugenol",
-            "Geraniol",
-            "Limonene",
-            "Linalool",
-            "CI 15985"
-        ]
-    },
-    {
         "name": "AzzaroChrome",
         "comp": [
-            "Sk\u0142adnikiALCOHOL PARFUM/FRAGRANCE",
+            "ALCOHOL PARFUM/FRAGRANCE",
             " AQUA WATER/EAU",
             " ETHYLHEXYL METHOXYCINNAMATE",
             " BUTYL METHOXYDIBEN- ZOYLMETHANE ETHYLHEXYL SALICYLATE",
@@ -260,9 +211,46 @@
         ]
     },
     {
+        "name": "Giorgio ArmaniAcqua Di Gio",
+        "comp": [
+            "ALCOHOL",
+            " AQUA / WATER",
+            " PARFUM / FRAGRANCE",
+            " BHT",
+            " LINALOOL",
+            " GERANIOL",
+            " EUGENOL",
+            " ALPHA-ISOMETHYL IONONE",
+            " CINNAMYL ALCOHOL",
+            " LIMONENE",
+            " CITRAL",
+            " CITRONELLOL",
+            " BUTYLPHENYL METHYLPROPIONAL",
+            " BENZYL SALICYLATE"
+        ]
+    },
+    {
+        "name": "BrutalGrand",
+        "comp": [
+            "Alcohol Denat",
+            "Aqua",
+            "Parfum",
+            "Benzyl Alcohol",
+            "Benzyl Benzoate",
+            "Benzyl Cinnamate",
+            "Cinnamal",
+            "Citral",
+            "Eugenol",
+            "Geraniol",
+            "Limonene",
+            "Linalool",
+            "CI 15985"
+        ]
+    },
+    {
         "name": "AdidasDynamic Pulse",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT",
+            "ALCOHOL DENAT",
             " AQUA/WATER/EAU",
             " PARFUM/FRAGRANCE",
             " ETHYLHEXYL METHOXYCINNAMATE",
@@ -292,25 +280,9 @@
         ]
     },
     {
-        "name": "Jacques BattiniJacques Homme",
-        "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            "Parfum",
-            "Aqua",
-            "Hexyl Cinnamal",
-            "Linalool",
-            "Limonene",
-            "Citronellol",
-            "Citral",
-            "Coumarin",
-            "Geraniol",
-            "Alpha Isomethyl Ionone"
-        ]
-    },
-    {
         "name": "Vittorio BellucciChicago Blues",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " Parfum (Fragrance)",
             " Aqua (Water)",
             " Limonene",
@@ -327,9 +299,25 @@
         ]
     },
     {
+        "name": "Jacques BattiniJacques Homme",
+        "comp": [
+            "Alcohol Denat",
+            "Parfum",
+            "Aqua",
+            "Hexyl Cinnamal",
+            "Linalool",
+            "Limonene",
+            "Citronellol",
+            "Citral",
+            "Coumarin",
+            "Geraniol",
+            "Alpha Isomethyl Ionone"
+        ]
+    },
+    {
         "name": "Dolce&GabbanaThe One Grey Intense",
         "comp": [
-            "Sk\u0142adnikiAlcohol",
+            "Alcohol",
             " Parfum (Fragrance)",
             " Dipropylene Glycol",
             " Aqua (Water)",
@@ -353,29 +341,9 @@
         ]
     },
     {
-        "name": "La RiveHitfire Man",
-        "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            "Aqua",
-            "Parfum",
-            "Amyl Cinnamal",
-            "Benzyl Alcohol",
-            "Benzyl Benzoate",
-            "Citral",
-            "Citronellol",
-            "Coumarin",
-            "Eugenol",
-            "Geraniol",
-            "Isoeugenol",
-            "Limonene",
-            "Linalool",
-            "Farnesol"
-        ]
-    },
-    {
         "name": "Bi-esMax Ice Freshness",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT",
+            "ALCOHOL DENAT",
             " PARFUM",
             " AQUA",
             " DIETHYLHEXYL MALATE",
@@ -400,50 +368,29 @@
         ]
     },
     {
-        "name": "La RiveRed Line",
+        "name": "La RiveHitfire Man",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            " Aqua",
-            " Parfum (\u043f\u0430\u0440\u0444\u044e\u043c) Limonene",
-            " Linalool",
-            " Citral",
-            " Citronellol",
-            " Geraniol",
-            " Alpha-Isomethyl Ionone"
-        ]
-    },
-    {
-        "name": "Giorgio ArmaniStronger with You",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL ",
-            "AQUA ",
-            " PARFUM ",
-            " BENZOTRIAZOLYL DODECYL ",
-            " p- CRESOL ",
-            " LIMONENE ",
-            " LINALLOL ",
-            " ALPHA- ISOMETHYL IONONE",
-            "COUMARIN ",
-            "  ISOEUGENOL ",
-            "CITRONELLOL ",
-            " ALPHA- ISOMETHYL IONONE ",
-            " EUGENOL ",
-            " CITRAL ",
-            " BENZYL ALCOHOL ",
-            " TRIS ( TETRAMETHYLHYDROXYPIPERIDINOL ) ",
-            " CITRATE ",
-            " GERANIOL ",
-            " CINAMMAL ",
-            " METHYL- 2 OCTYNOATE ",
-            " CI 19140 / YELLOW 5 ",
-            " CI 14700 / RED 4 ",
-            " CI 60730 / EXT VIOLET2 CODE FIL : BI 97717 / 1"
+            "Alcohol Denat",
+            "Aqua",
+            "Parfum",
+            "Amyl Cinnamal",
+            "Benzyl Alcohol",
+            "Benzyl Benzoate",
+            "Citral",
+            "Citronellol",
+            "Coumarin",
+            "Eugenol",
+            "Geraniol",
+            "Isoeugenol",
+            "Limonene",
+            "Linalool",
+            "Farnesol"
         ]
     },
     {
         "name": "BrutalClassic",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Aqua",
             "Parfum",
             "Amyl Cinnamal",
@@ -471,7 +418,7 @@
     {
         "name": "MexxIce Touch",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " Aqua(Water)",
             " Parfum(Fragrance)",
             " Ethylhexyl Methoxycinnamate",
@@ -491,9 +438,37 @@
         ]
     },
     {
+        "name": "Giorgio ArmaniStronger with You",
+        "comp": [
+            "ALCOHOL ",
+            "AQUA ",
+            " PARFUM ",
+            " BENZOTRIAZOLYL DODECYL ",
+            " p- CRESOL ",
+            " LIMONENE ",
+            " LINALLOL ",
+            " ALPHA- ISOMETHYL IONONE",
+            "COUMARIN ",
+            "  ISOEUGENOL ",
+            "CITRONELLOL ",
+            " ALPHA- ISOMETHYL IONONE ",
+            " EUGENOL ",
+            " CITRAL ",
+            " BENZYL ALCOHOL ",
+            " TRIS ( TETRAMETHYLHYDROXYPIPERIDINOL ) ",
+            " CITRATE ",
+            " GERANIOL ",
+            " CINAMMAL ",
+            " METHYL- 2 OCTYNOATE ",
+            " CI 19140 / YELLOW 5 ",
+            " CI 14700 / RED 4 ",
+            " CI 60730 / EXT VIOLET2 CODE FIL : BI 97717 / 1"
+        ]
+    },
+    {
         "name": "AllvernumCardamom & Sandalwood",
         "comp": [
-            "Sk\u0142adnikiAlcohol denat",
+            "Alcohol denat",
             " Parfum",
             " Aqua",
             " Alpha-isomethyl ionone",
@@ -514,9 +489,22 @@
         ]
     },
     {
+        "name": "La RiveRed Line",
+        "comp": [
+            "Alcohol Denat",
+            " Aqua",
+            " Parfum (\u043f\u0430\u0440\u0444\u044e\u043c) Limonene",
+            " Linalool",
+            " Citral",
+            " Citronellol",
+            " Geraniol",
+            " Alpha-Isomethyl Ionone"
+        ]
+    },
+    {
         "name": "Calvin KleinEternity Now",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT",
+            "ALCOHOL DENAT",
             " AQUA/WATER/EAU",
             " PARFUM/FRAGRANCE",
             " ETHYLHEXYL METHOXYCINNAMATE",
@@ -545,7 +533,7 @@
     {
         "name": "Hugo BossEnergise",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " ",
             " Aqua/Water ",
             " Parfum/Fragrance ",
@@ -570,7 +558,7 @@
     {
         "name": "Jacques BattiniGentle Selection",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Parfum",
             "Aqua",
             "Citral",
@@ -584,56 +572,16 @@
     {
         "name": "AdidasActive Bodies",
         "comp": [
-            "Sk\u0142adniki\u2022nuta g\u0142owy: akord kolo\u0144ski uzupe\u0142niony rozmarynem i mandarynk\u0105 \u2022nuta serca: drzewo sanda\u0142owe",
+            "\u2022nuta g\u0142owy: akord kolo\u0144ski uzupe\u0142niony rozmarynem i mandarynk\u0105 \u2022nuta serca: drzewo sanda\u0142owe",
             " paczula",
             " wetiwer \u2022nuta podstawowa: ambra",
             " mech d\u0119bowy"
         ]
     },
     {
-        "name": "JaguarClassic Black",
-        "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            "Parfum (Fragrance)",
-            "Aqua (Water)",
-            "Linalool",
-            "Butylphenyl Methylpropional",
-            "Limonene",
-            "Coumarin",
-            "Benzyl Salicylate",
-            "Alpha-Isomethyl Ionone",
-            "Citronellol",
-            "Citral",
-            "Geraniol",
-            "Eugenol"
-        ]
-    },
-    {
-        "name": "Karl LagerfeldNew York",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT (SD ALCOHOL 39-C)",
-            "AQUA (WATER)",
-            "ETHYLHEXYL METHOXYCINNAMATE",
-            " ETHYLHEXYL SALICYLATE",
-            "BUTYL METHOXYDIBENZOYLMETHANE",
-            "bht",
-            "  CITRIC ACID",
-            "CI60730 (EXTVIOLET 2)",
-            "CI19140 (YELLOW 5)",
-            " CI42090 (BLUE 1)",
-            "LINALOOL",
-            " LIMONENE",
-            " ALPHA-ISOMETHYL IONONE",
-            " CITRONELLOL",
-            "CITRAL",
-            "EUGENOL",
-            " GERANIOL"
-        ]
-    },
-    {
         "name": "Jeanne ArthesColonial Club",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT (SD ALCOHOL 39-C)",
+            "ALCOHOL DENAT (SD ALCOHOL 39-C)",
             " AQUA (WATER)",
             " PARFUM (FRAGRANCE)",
             " CITRAL",
@@ -653,7 +601,7 @@
     {
         "name": "Calvin KleinOne",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " Aqua/Water/Eau",
             " Parfum/Fragrance",
             " Linalool",
@@ -671,36 +619,49 @@
         ]
     },
     {
-        "name": "El GansoBravo Monsieur",
+        "name": "Karl LagerfeldNew York",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT  AQUA (WATER)  PARFUM (FRAGRANCE) TOCOPHERYL ACETATE  ETHYLHEXYL METHOXYCINNAMATE  BHT  BUTYL METHOXYDIBENZOYLMETHANE  ETHYLHEXYL SALICYLATE"
+            "ALCOHOL DENAT (SD ALCOHOL 39-C)",
+            "AQUA (WATER)",
+            "ETHYLHEXYL METHOXYCINNAMATE",
+            " ETHYLHEXYL SALICYLATE",
+            "BUTYL METHOXYDIBENZOYLMETHANE",
+            "bht",
+            "  CITRIC ACID",
+            "CI60730 (EXTVIOLET 2)",
+            "CI19140 (YELLOW 5)",
+            " CI42090 (BLUE 1)",
+            "LINALOOL",
+            " LIMONENE",
+            " ALPHA-ISOMETHYL IONONE",
+            " CITRONELLOL",
+            "CITRAL",
+            "EUGENOL",
+            " GERANIOL"
         ]
     },
     {
-        "name": "Hugo BossBoss In Motion",
+        "name": "JaguarClassic Black",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            "Aqua (Water)",
+            "Alcohol Denat",
             "Parfum (Fragrance)",
-            "Ethylhexyl Methoxycinnamate",
-            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
-            "BHT",
-            "Limonene",
+            "Aqua (Water)",
             "Linalool",
+            "Butylphenyl Methylpropional",
+            "Limonene",
+            "Coumarin",
             "Benzyl Salicylate",
-            "Benzyl Alcohol",
-            "Hydroxycitronellal",
-            "Farnesol",
-            "Geraniol",
+            "Alpha-Isomethyl Ionone",
+            "Citronellol",
             "Citral",
-            "Cinnamal",
+            "Geraniol",
             "Eugenol"
         ]
     },
     {
         "name": "FerrariBlack",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Aqua (Water)",
             "Parfum (Fragrance)",
             "hydroxycitronellal",
@@ -719,7 +680,7 @@
     {
         "name": "Jeanne ArthesSultan Men Blue",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT (SD ALCOHOL 39-C)",
+            "ALCOHOL DENAT (SD ALCOHOL 39-C)",
             "  AQUA (WATER)",
             " PARFUM (FRAGRANCE)",
             " ETHYLHEXYL METHOXYCINNAMATE",
@@ -737,7 +698,7 @@
     {
         "name": "Hugo BossBottled Night",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " ",
             " Aqua(Water) ",
             " Parfum(Fragrance) ",
@@ -764,15 +725,9 @@
         ]
     },
     {
-        "name": "STR8Live True",
-        "comp": [
-            "Sk\u0142adnikiAlcohol Denat Aqua Parfum Butyl Methoxydibenzoylmethane Ethylhexyl Methoxycinnamate Ethylhexyl Salicylate PPG-20 Methyl Glucose Ether BHT Alpha-Isomethyl Ionone Benzyl Salicylate Butylphenyl Methylpropional Citral Citronellol Coumarin Geraniol Limonene Linalool CI 19140 CI 42090 CI 60730"
-        ]
-    },
-    {
         "name": "MexxCity Breeze",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " Aqua (Water)",
             " Parfum (Fragrance)",
             " Methyl Cyclodextrin",
@@ -794,34 +749,30 @@
         ]
     },
     {
-        "name": "TiffiT4 Simply Legend",
+        "name": "Hugo BossBoss In Motion",
         "comp": [
-            "Sk\u0142adniki80% VOL"
-        ]
-    },
-    {
-        "name": "LanvinL'Homme",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT (SD ALCOHOL 39-C)",
-            "AQUA (WATER)",
-            "LINALOOL",
-            "LIMONENE",
-            " BENZOPHENONE",
-            "BUTYLPHENYL METHYLPROPIONAL",
+            "Alcohol Denat",
+            "Aqua (Water)",
+            "Parfum (Fragrance)",
+            "Ethylhexyl Methoxycinnamate",
+            "Diethylamino Hydroxybenzoyl Hexyl Benzoate",
             "BHT",
-            "CITRONELLOL",
-            "CITRAL",
-            "GERANIOL",
-            " ISOEUGENOL",
-            "CI60730(EXT VIOLET2)",
-            " CI42090(BLUE1)",
-            "CI14700(RED4)"
+            "Limonene",
+            "Linalool",
+            "Benzyl Salicylate",
+            "Benzyl Alcohol",
+            "Hydroxycitronellal",
+            "Farnesol",
+            "Geraniol",
+            "Citral",
+            "Cinnamal",
+            "Eugenol"
         ]
     },
     {
         "name": "JaguarGold in Black",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Aqua (Water)",
             "Parfum (Fragrance)",
             "Limonene",
@@ -840,7 +791,7 @@
     {
         "name": "Issey MiyakeL'Eau D'issey Pour Homme",
         "comp": [
-            "Sk\u0142adnikiALCOHOL",
+            "ALCOHOL",
             " PARFUM (FRAGRANCE)",
             " AQUA (WATER)",
             " DIPROPYLENE GLYCOL",
@@ -864,21 +815,9 @@
         ]
     },
     {
-        "name": "HalloweenMan",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT AQUA (WATER) PARFUM (FRAGRANCE)ETHYLHEXYL METHOXYCINNAMATE BUTYL METHOXYDIBENZOYLMETHANE ETHYLHEXYL SALICYLATE BHT"
-        ]
-    },
-    {
-        "name": "HalloweenMan",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT AQUA (WATER) PARFUM (FRAGRANCE)ETHYLHEXYL METHOXYCINNAMATE BUTYL METHOXYDIBENZOYLMETHANE ETHYLHEXYL SALICYLATE BHT"
-        ]
-    },
-    {
         "name": "Jeanne ArthesColonial Club Signature",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT (SD ALCOHOL 39-C)",
+            "ALCOHOL DENAT (SD ALCOHOL 39-C)",
             " AQUA (WATER)",
             " PARFUM (FRAGRANCE)",
             " ALPHA-ISOMETHYL IONONE",
@@ -903,9 +842,28 @@
         ]
     },
     {
+        "name": "LanvinL'Homme",
+        "comp": [
+            "ALCOHOL DENAT (SD ALCOHOL 39-C)",
+            "AQUA (WATER)",
+            "LINALOOL",
+            "LIMONENE",
+            " BENZOPHENONE",
+            "BUTYLPHENYL METHYLPROPIONAL",
+            "BHT",
+            "CITRONELLOL",
+            "CITRAL",
+            "GERANIOL",
+            " ISOEUGENOL",
+            "CI60730(EXT VIOLET2)",
+            " CI42090(BLUE1)",
+            "CI14700(RED4)"
+        ]
+    },
+    {
         "name": "STR8FR34K",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Aqua",
             "Parfum",
             "PPG-20 Methyl Glucose Ether",
@@ -923,7 +881,7 @@
     {
         "name": "Carrera Jeans700 Original",
         "comp": [
-            "Sk\u0142adnikiAlcohol denat",
+            "Alcohol denat",
             " Aqua [Water]",
             " Parfum [Fragrance]",
             " Limonene",
@@ -937,7 +895,7 @@
     {
         "name": "Jacques BattiniSelection",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Parfum",
             "Aqua",
             "Butylphenyl Methylpropional",
@@ -952,7 +910,7 @@
     {
         "name": "DavidoffCool Water",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             "Aqua/Water/Eau",
             "Parfum/Fragrance",
             "Cetearyl Ethylhexanoate",
@@ -971,15 +929,9 @@
         ]
     },
     {
-        "name": "HalloweenMan X",
-        "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT PARFUM (FRAGRANCE) AQUA (WATER) ETHYLHEXYL METHOXYCINNAMATE BUTYL METHOXYDIBENZOYLMETHANE  ETHYLHEXYL SALICYLATE  BHT"
-        ]
-    },
-    {
         "name": "PucciniExtreme Pour Homme",
         "comp": [
-            "Sk\u0142adnikiALCOHOL DENAT",
+            "ALCOHOL DENAT",
             " PARFUM (FRAGRANCE)",
             " AQUA (WATER)",
             " COUMARIN",
@@ -996,9 +948,26 @@
         ]
     },
     {
+        "name": "La RiveCabana",
+        "comp": [
+            "Alcohol Denat",
+            "Aqua",
+            "Parfum",
+            "Butylphenyl Methypropional",
+            "Coumarin",
+            "Alpha-Isomethyl Ionone",
+            "Linalool",
+            "Cinnamal",
+            "Eugenol",
+            "Citral",
+            "Limonene",
+            "Geraniol"
+        ]
+    },
+    {
         "name": "Bruno BananiDangerous Man",
         "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
+            "Alcohol Denat",
             " Aqua (Water)",
             " Parfum (Fragrance)",
             " Methyl Cyclodextrin",
@@ -1012,29 +981,6 @@
             " Geraniol",
             " Limonene",
             " Linalool 78% Vol"
-        ]
-    },
-    {
-        "name": "David BeckhamBeyond",
-        "comp": [
-            "Sk\u0142adnikiAlcohol Denat",
-            " Aqua/Water/Eau",
-            " Parfum/Fragrance",
-            " Ethylhexyl Methoxycinnamate",
-            " Limonene",
-            " Benzophenone-3",
-            " Ethylhexyl Salicylate",
-            " Citronellol",
-            " Butyl Methoxydibenzoylmethane",
-            " Linalool",
-            " Citral",
-            " Coumarin",
-            " BHT",
-            " Geraniol",
-            " Propylene Glycol",
-            " Acrylates/Octylacrylamide Copolymer",
-            " Hydrolyzed Jojoba Esters",
-            " EXT D&C Violet No 2 (CI 60730)"
         ]
     }
 ]

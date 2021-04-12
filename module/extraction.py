@@ -27,15 +27,15 @@ def get_product_data(link):
 
     soup = BeautifulSoup(r_html, 'html.parser')
 
-    last_t = soup.find('h1', class_="product-content__brand")
-
-    last_c = soup.find(id="product-ingredients")
-
     translator = str.maketrans({"\n": None, "\t": None, ".": None})
 
     try:
+        last_t = soup.find('h1', class_="product-content__brand")
+        last_c = soup.find(id="product-ingredients").find("div", class_="ui-expandable__inner")
         name = last_t.getText().translate(translator)
         comp = last_c.getText().translate(translator).split(',')
+        if len(comp) < 2:
+            comp = comp.split('  ')
         perfume = Product(name, comp)
     except:
         return False
